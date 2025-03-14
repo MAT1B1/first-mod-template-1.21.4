@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+      "firstmod:maledithe_block"
+  ],
+  "result": {
+    "id": "firstmod:cursed_soul",
+    "count": 1
+  }
+}
